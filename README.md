@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 What I Do
-- Lead **Azure architecture & compliance** for top financial institutions (KB, Shinhan, NH, Samsung Life, Hanwha Life)  
-- Deliver **secure cloud adoption** with focus on regulatory leadership (FSS, CSAP, AI Sandbox)  
+- Lead **Azure architecture & compliance** for top financial institutions
+- Deliver **secure cloud adoption** with focus on regulatory leadership
 - Build **enablement programs & workshops** → standardized assets published on Microsoft GitHub  
 - Act as a trusted advisor in **data, AI, networking, and security**
 
