@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Boram Jeong
 
-💼 Microsoft Solution Engineer (FSI)  
+💼 Microsoft Solution Engineer (Apps & Infra)  
 🌐 Driving Azure cloud adoption & AI transformation in Korea
 
 ---
